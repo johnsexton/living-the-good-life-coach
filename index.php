@@ -238,7 +238,7 @@
     -->
 
     <footer>
-        <p>&copy; 2025 Living The Good Life Coach. All rights reserved.</p>
+        <p>&copy; <?php echo date("Y"); ?> Living The Good Life Coach. All rights reserved.</p>
         <div class="social">
             <a href="mailto:gregfurnialifecoaching@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/greg-furnia-livingthegoodlifecoach/">Linkedin</a>
         </div>
