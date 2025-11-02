@@ -184,7 +184,7 @@ section {
     gap: 2rem;
 }
 
-.two-col > .card {
+.two-col > div {
     flex: 1 1 calc(50% - 1rem);
     min-width: 300px;
 }
@@ -264,4 +264,12 @@ footer {
 
 footer a {
     color: var(--white)
+}
+
+footer img {
+    margin-left: 1rem;
+}
+
+footer .right {
+    text-align: right;
 }

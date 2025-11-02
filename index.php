@@ -156,17 +156,6 @@
         <div class="section-content">
             <div class="two-col">
                 <div class="card">
-                    <h3>For Agencies</h3>
-                    <p>Agencies can host up to 25 participants per session, including family members, at a fixed program cost.</p>
-                    <ul>
-                        <li>“This program is non-clinical, educational, and wellness-based.”</li>
-                        <li>“Developed and delivered by a certified professional development coach with 26 years of federal law enforcement experience.”</li>
-                        <li>“Fully portable for on-site or regional delivery; compliant with agency training and travel standards.”</li>
-                        <li>“Invoices provided with detailed itemization; vendor W-9 and documentation available upon request.”</li>
-                        <li>“This program meets agency wellness and leadership development criteria under Title [insert applicable code for your state if needed].”</li>
-                    </ul>
-                </div>
-                <div class="card">
                     <h3>Program Description</h3>
                     <p>A one-day, instructor-led professional development program for first responders and their families. The session addresses proactive identity transition, purpose alignment, family and partner awareness, emotional wellness, and post-career lifestyle readiness.</p>
                     <p>Participants leave with access to shared wellness and transition resources, peer support networks, and vetted service provider information for continued readiness beyond the classroom.</p>
@@ -179,6 +168,17 @@
                         <li>Mitigate post-service wellness and morale challenges</li>
                         <li>Strengthen departmental readiness and reputation</li>
                         <li>Provide access to ongoing resources and peer networks that sustain long-term wellness and connection</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <h3>For Agencies</h3>
+                    <p>Agencies can host up to 25 participants per session, including family members, at a fixed program cost.</p>
+                    <ul>
+                        <li>“This program is non-clinical, educational, and wellness-based.”</li>
+                        <li>“Developed and delivered by a certified professional development coach with 26 years of federal law enforcement experience.”</li>
+                        <li>“Fully portable for on-site or regional delivery; compliant with agency training and travel standards.”</li>
+                        <li>“Invoices provided with detailed itemization; vendor W-9 and documentation available upon request.”</li>
+                        <li>“This program meets agency wellness and leadership development criteria under Title [insert applicable code for your state if needed].”</li>
                     </ul>
                 </div>
                 <div class="card">
@@ -238,10 +238,14 @@
     </section>
     -->
 
-    <footer>
-        <p>&copy; <?php echo date("Y"); ?> Living The Good Life Coach. All rights reserved.</p>
-        <div class="social">
+    <footer class="two-col">
+        <div class="left">
+            <p>&copy; <?php echo date("Y"); ?> Living The Good Life Coach. All rights reserved.</p>
             <a href="mailto:gregfurnialifecoaching@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/greg-furnia-livingthegoodlifecoach/">Linkedin</a>
+        </div>
+        <div class="right">
+            <a href="https://www.credly.com/badges/1eeefa96-cd17-494b-b354-d770519b2a85/embedded"><img src="img/icf.png" alt="International Coach Federation Credentialed Coach Badge" style="width: 100px;"></a>
+            <a href="https://www.coachtrainingalliance.com/"><img src="img/certifiedcoach.png" alt="Certified Coach Badge" style="width: 180px;"></a>
         </div>
     </footer>
 
