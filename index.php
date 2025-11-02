@@ -194,48 +194,6 @@
         </div>
     </section>
 
-    <!-- Testimonials Section
-    <section id="testimonials" class="testimonials-carousel" aria-roledescription="carousel" aria-label="Client testimonials" aria-live="polite">
-    <div class="section-heading">
-        <h2 id="testimonials-heading">What Clients Say</h2>
-    </div>  
-    <div class="accordion">
-        <div class="card accordion-item">
-            <button class="accordion-header" aria-expanded="true">
-                <p class="preview">"I am going through the Border Patrol Academy which provides many changes..."</p>
-                <span class="name">TA</span>
-                <span class="icon">+</span>
-            </button>
-            <div class="accordion-content">
-                <p>“I am going through the Border Patrol Academy which provides many changes, new opportunities, challenges, and experiences. Greg has been there to assist in showing me different perspectives and advantages/disadvantages to the many different questions and challenges I am presented with. He asks me questions which helps me think outside the box on potential options for myself will be more beneficial to me in the present and the future. I have never had a life coach before and I figured sense I had many “life based” questions than it would be worth a shot. It has been a great and extremely beneficial decision and I look forward to the meetings.”</p>
-            </div>
-            </div>
-
-            <div class="card accordion-item">
-            <button class="accordion-header" aria-expanded="false">
-                <p class="preview">"After working with Greg just 3 times I felt as though there was a difference..."</p>
-                <span class="name">GC</span>
-                <span class="icon">+</span>
-            </button>
-            <div class="accordion-content">
-                <p>“After working with Greg just 3 times I felt as though there was a difference with my work-life balance. Greg is compassionate, professional, and attentive. I find that he uses his own life experience to relate, and that makes me feel understood. Through his listening skills, Greg will give you actionable items to either help improve your situation, or allow you to reflect and recognize the problem in the future. Lastly, he is there to help celebrate your achievements no matter how big or small.”</p>
-            </div>
-            </div>
-
-            <div class="card accordion-item">
-            <button class="accordion-header" aria-expanded="false">
-                <p class="preview">"I was going through a difficult time after a 2-year relationship ended..."</p>
-                <span class="name">CF</span>
-                <span class="icon">+</span>
-            </button>
-            <div class="accordion-content">
-                <p>“I was going through a difficult time after a 2-year relationship ended. I lost my partner of 30 years 3 years ago as well. I was emotionally drained and not feeling good about myself. I reached out to Greg, he helped me find the path I was looking for. The thing that impressed me working with Greg is that he poses questions, gave me exercises to do that made me think about what is important. Greg had me thinking again of my core values from there I am able to prioritize my life and decide for myself where I want to be. Greg is very easy to talk to, available when I need to reach out. So very professional. I highly recommend him as a life coach.”</p>
-            </div>
-        </div>
-    </div>
-    </section>
-    -->
-
     <footer class="two-col">
         <div class="left">
             <p>&copy; <?php echo date("Y"); ?> Living The Good Life Coach. All rights reserved.</p>
