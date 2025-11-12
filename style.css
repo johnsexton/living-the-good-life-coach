@@ -38,6 +38,8 @@ ul, li {
     --blue: #1d5289;
     --white: #ffffff;
     --grey: #f4f4f4;
+    --newgold: #fec744;
+    --black: #222222;
 }
 
 /* Screen Reader Only */
@@ -68,14 +70,15 @@ header {
 
 .logo h1 {
     padding-left: .5rem;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
+    line-height: 1rem;
     font-weight: bold;
     display: inline;
 }
 
 .logo a {
     text-decoration: none;
-    color: var(--teal);
+    color: var(--black);
 }
 
 .logo img {
@@ -101,7 +104,7 @@ nav {
   position: relative;
   padding: .5rem .5rem;
   text-decoration: none;
-  color: var(--teal)
+  color: var(--black)
 }
 
 .nav-links a::after {
@@ -111,7 +114,7 @@ nav {
   bottom: 0;
   height: 2px;
   width: 0%;
-  background-color: var(--teal);
+  background-color: var(--black);
   transform: translateX(-50%); /* shift back by half width */
   transition: width 0.3s ease;
 }
@@ -122,13 +125,13 @@ nav {
 
 /* Background when scrolled */
 header.scrolled {
-    background-color: var(--teal);
+    background-color: var(--black);
     backdrop-filter: blur(5px);
 }
 
 header.scrolled h1,
 header.scrolled .nav-links a {
-    color: var(--gold)
+    color: var(--newgold)
 }
 
 header.scrolled .nav-links a::after {
@@ -137,7 +140,7 @@ header.scrolled .nav-links a::after {
 
 #hero {
     margin-top: -75px;
-    background: url('img/hero.jpg') no-repeat center center/cover;
+    background: url('img/newhero.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -159,8 +162,8 @@ header.scrolled .nav-links a::after {
     display: inline-block;
     margin-bottom: 2rem;
     padding: 0.7rem 1.5rem;
-    color: var(--teal);
-    border: 4px solid var(--teal);
+    color: var(--black);
+    border: 4px solid var(--black);
     border-radius: 12px;
     text-decoration: none;
     text-transform: uppercase;
@@ -170,8 +173,7 @@ header.scrolled .nav-links a::after {
 
 }
 .btn:hover {
-    background: var(--teal);
-    color: var(--beige);
+    background: var(--newgold);
 }
 
 section {
@@ -200,13 +202,13 @@ section {
 .section-heading {
     margin: 2rem auto 2rem;
     padding: 1.5rem 5rem;
-    color: var(--beige);
-    background: var(--teal);
+    color: var(--newgold);
+    background: var(--black);
     text-align: center;
 }
 
 .section-heading h2 {
-    color: var(--gold)
+    color: var(--newgold)
 }
 
 .section-content .card h3 {
@@ -258,12 +260,12 @@ section {
 
 footer {
     padding: 4rem 2rem;
-    color: var(--white);
-    background: var(--teal);
+    color: var(--newgold);
+    background: var(--black);
 }
 
 footer a {
-    color: var(--white)
+    color: var(--newgold)
 }
 
 footer img {

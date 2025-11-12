@@ -16,7 +16,7 @@
         <nav>
             <div class="logo">
                 <a href="#top">
-                    <img style="width: 40px;" src="img/logo/logo-circle.png" alt="Living The Good Life Coach"> 
+                    <img style="width: 40px;" src="img/logo/badge-sm.png" alt="Living The Good Life Coach"> 
                     <h1>Greg Furnia</h1>
                 </a>
             </div>
@@ -32,7 +32,7 @@
     <!-- Hero Section -->
     <section id="hero">
         <div class="section-content">
-            <img class="align-right" src="img/logo/challenge-coin-2.png" alt="Challenge coin with graphics of a handshake">
+            <img class="align-right" src="img/logo/badge.png" alt="Challenge coin with graphics of a handshake">
             <div><h1 class="sr-only">Redefining Your Future</h1></div>
             <div><a href="mailto:gregfurnialifecoaching@gmail.com" class="btn">Book a Free Consultation</a></div>
         </div>
