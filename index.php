@@ -7,7 +7,7 @@
     <meta name="description" content="Transform your life with expert life coaching focused on mindfulness, goal setting, and personal growth. Book a free consultation today!">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body id="top">
@@ -33,7 +33,7 @@
     <section id="hero">
         <div class="section-content">
             <img class="align-right" src="img/logo/badge.png" alt="Challenge coin with graphics of a handshake">
-            <div><h1 class="sr-only">Redefining Your Future</h1></div>
+            <div class="goodlife">Ready to Start Living the Good Life?</div>
             <div><a href="mailto:gregfurnialifecoaching@gmail.com" class="btn">Book a Free Consultation</a></div>
         </div>
     </section>

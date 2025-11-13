@@ -146,7 +146,7 @@ header.scrolled .nav-links a::after {
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: var(--teal);
+    color: var(--black);
 }
 
 #hero img {
@@ -154,13 +154,14 @@ header.scrolled .nav-links a::after {
     margin-bottom: 2rem;
 }
 
-#hero .btn {
-    margin-top: 1rem;
+#hero .goodlife {
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 2.5rem;
 }
 
-.btn {
+#hero .btn {
     display: inline-block;
-    margin-bottom: 2rem;
+    margin: 1rem auto;
     padding: 0.7rem 1.5rem;
     color: var(--black);
     border: 4px solid var(--black);
