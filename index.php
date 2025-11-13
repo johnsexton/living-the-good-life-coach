@@ -125,17 +125,17 @@
             <div class="card">
                 <h3>Retire Ready™ Workshop</h3>
                 <p>A proactive readiness and wellness initiative that is delivered in-person and on-site as a one-day professional development program to prepare personnel for successful retirement transitions. It directly supports morale, retention, and wellness objectives and can be delivered on-site as a one-day professional development program.</p>
-                <a href="#contact" class="connect-btn blue">Learn More</a>
+                <a href="#retire-ready" class="connect-btn blue">Learn More</a>
             </div>
             <div class="card">
                 <h3>1:1 Coaching for Career and Life Transitions</h3>
                 <p>Personalized, values-based coaching focused on leadership, purpose, and emotional intelligence, helping first responders and their families build balance, clarity, and resilience during career or life transitions.</p>
-                <a href="#contact" class="connect-btn red">Learn More</a>
+                <a href="#one-on-one" class="connect-btn red">Learn More</a>
             </div>
             <div class="card">
                 <h3>New Hire & Academy Sessions</h3>
                 <p>Proactive, family-centered strategies that help new first responders build long, fulfilling careers without sacrificing relationships or personal freedom—enhancing morale, retention, and long-term productivity across the organization.</p>
-                <a href="#contact" class="connect-btn green">Learn More</a>
+                <a href="#" class="connect-btn green">Learn More</a>
             </div>
         </div>
     </section>
@@ -182,8 +182,46 @@
                         <li>Family Support and Resilience Education</li>
                         <li>Resource & Referral Awareness Training (non-clinical wellness support)</li>
                     </ul>
+                </div>
+            </div>
+        </div>
+    </section>
 
-
+    <!-- One-on-One Section -->
+    <section id="one-on-one">
+        <div class="section-heading">
+            <h2>One-on-one Coaching</h2>
+            <p>Growth starts with connection—and with a proactive plan. Through personalized one-on-one sessions, I help first responders and their families strengthen leadership, navigate career and life transitions, and build balance between work and home. Each session draws on real-world experience, shared values, and a family-first approach—empowering you to take charge of your growth, prepare for what's next, and live your version of the good life.</p>
+        </div>
+        <div class="section-content">
+            <div class="two-col">
+                <div class="card">
+                    <h3>Overview</h3>
+                    <p>Growth starts with connection—and with a proactive plan. These personalized one-on-one sessions are designed for first responders and their families who want to strengthen leadership skills, navigate career and life transitions, and build balance between work and home.</p>
+                    <p>Each session draws on decades of frontline experience, proven coaching methods, and a values-based framework that puts family and purpose first. Together, we'll identify your goals, build actionable strategies, and develop the mindset and habits that lead to lasting success—on duty, off duty, and beyond retirement.</p>
+                </div>
+                <div class="card">
+                    <h3>What to Expect</h3>
+                    <ul>
+                        <li>Private, personalized sessions tailored to your goals</li>
+                        <li>Guidance for leadership development, life transitions, and personal growth</li>
+                        <li>Real-world tools and proactive strategies to create sustainable balance</li>
+                        <li>A trusted space to reflect, plan, and take action with accountability</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <h3>Who it's For</h3>
+                    <p>Agencies can host up to 25 participants per session, including family members, at a fixed program cost.</p>
+                    <ul>
+                        <li>Current and retired first responders</li>
+                        <li>Spouses and family members navigating transitions together</li>
+                        <li>Leaders seeking to improve communication, connection, and performance</li>
+                        <li>Anyone ready to live intentionally—with clarity, confidence, and purpose</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <h3>My Approach</h3>
+                    <p>This isn't just about career planning—it's about building a life grounded in what matters most. Through a proactive, family-first process, I help you align your values, strengths, and goals so you can live your version of the good life with purpose, balance, and fulfillment.</p>
                 </div>
             </div>
         </div>
