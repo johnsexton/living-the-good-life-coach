@@ -181,7 +181,8 @@ section {
     padding: 4rem 6rem;
 }
 
-.two-col {
+.two-col,
+.three-col {
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
@@ -190,6 +191,11 @@ section {
 .two-col > div {
     flex: 1 1 calc(50% - 1rem);
     min-width: 300px;
+}
+
+.three-col > div {
+    flex: 1 1 calc(30% - 1rem);
+    min-width: 250px;
 }
 
 .card {
