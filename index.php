@@ -119,23 +119,28 @@
     <section id="services">
         <div class="section-heading">
             <h2>Services</h2>
-            <p>Begin Redefining Your Future</p>
+            <p>Every service I offer is built for first responders and the people who support them grounded in real-world experience, not theory. From personal and professional development sessions, to pre-retirement readiness, to leadership and career longevity training, everything is designed to protect what matters most to your family, your health, your purpose, and your future. As a certified coach and retired law enforcement leader, I bring 25 years in the job, strengths-based coaching, and a family-first, values-driven approach that most wellness and leadership programs simply don't offer. Explore the services below to see which next step fits you, your team, or your agency.</p>
         </div>
-        <div class="section-content three-col">
-            <div class="card flexcol">
-                <h3>Retire Ready™ Workshop</h3>
-                <p>A proactive readiness and wellness initiative that is delivered in-person and on-site as a one-day professional development program to prepare personnel for successful retirement transitions. It directly supports morale, retention, and wellness objectives and can be delivered on-site as a one-day professional development program.<br><br></p>
-                <a href="#retire-ready" class="connect-btn blue">Learn More</a>
+        <div class="section-content two-col">
+            <div class="card button-card">
+                <h3>Retire Ready Pre-Retirement Readiness and Wellness Training (Instructor-Led Training - ILT, Agency Training)</h3>
+                <p>A proactive readiness and wellness initiative that helps departments prepare personnel for successful retirement transitions. It directly supports morale, retention, and wellness objectives and is delivered on-site as a one-day professional development program.</p>
+                <a href="#retire-ready" class="learn-more-btn blue">Learn More</a>
             </div>
-            <div class="card flexcol">
-                <h3>1:1 Coaching for Career and Life Transitions</h3>
-                <p>Personalized, values-based coaching focused on leadership, purpose, and emotional intelligence, helping first responders and their families build balance, clarity, and resilience during career or life transitions.</p>
-                <a href="#one-on-one" class="connect-btn red">Learn More</a>
+            <div class="card button-card">
+                <h3>Built to Last - A proactive approach to building a fulfilling personal and professional life in service. (Agency Training)</h3>
+                <p>Built to Last is designed for first responders who are just beginning or still building  their careers in service.  This program helps participants develop the mindset, habits, and support systems that lead to a long, healthy, and purpose-driven life both on and off the job enhancing morale, retention, and long-term productivity across the organization.</p>
+                <a href="#built-to-last" class="learn-more-btn red">Learn More</a>
             </div>
-            <div class="card flexcol">
-                <h3>New Hire & Academy Sessions</h3>
-                <p>Proactive, family-centered strategies that help new first responders build long, fulfilling careers without sacrificing relationships or personal freedom—enhancing morale, retention, and long-term productivity across the organization.</p>
-                <a href="#" class="connect-btn green">Learn More</a>
+            <div class="card button-card">
+                <h3>Personal & Professional Development (1:1 Coaching) - A proactive, family-first approach to leadership and life.</h3>
+                <p>Growth starts with connection—and with a proactive plan. These personalized one-on-one sessions are designed for first responders and their families who want to strengthen leadership skills, navigate career and life transitions, and build balance between work and home.</p>
+                <a href="#one-on-one" class="learn-more-btn green">Learn More</a>
+            </div>
+            <div class="card button-card">
+                <h3>Retire Ready — Cohort-Based Group Coaching (8 Weeks) - A proactive, family-first approach to life after the badge.</h3>
+                <p>Growth starts with connection and with a plan built around your personal retirement goals. This small, closed-group program is designed for first responders and their families who want a supportive space to strengthen identity and purpose, align as a family, and design a clear next chapter.</p>
+                <a href="#retire-ready-cohort" class="learn-more-btn blue">Learn More</a>
             </div>
         </div>
     </section>
@@ -143,7 +148,7 @@
     <!-- Retire Ready Section -->
     <section id="retire-ready">
         <div class="section-heading">
-            <h2>Retire Ready: Pre-Retirement Readiness and Wellness Workshop</h2>
+            <h2>Retire Ready: Pre-Retirement Readiness and Wellness Training</h2>
             <p>A proactive readiness and wellness initiative that helps departments prepare personnel for successful retirement transitions. It directly supports morale, retention, and wellness objectives and can be delivered on-site as a one-day professional development program.</p>
         </div>
         <div class="section-content">
@@ -187,6 +192,57 @@
         </div>
     </section>
 
+    <!-- Built to Last Section -->
+    <section id="built-to-last">
+        <div class="section-heading">
+            <h2>Built to Last (Agency Training)</h2>
+            <p>A proactive approach to building a fulfilling personal and professional life in service.</p>
+        </div>
+        <div class="section-content">
+            <div class="two-col">
+                <div class="card">
+                    <h3>Overview</h3>
+                    <p>Built to Last is designed for first responders who are just beginning or still building  their careers in service.  This program helps participants develop the mindset, habits, and support systems that lead to a long, healthy, and purpose-driven life both on and off the job.</p>
+                    <p>Through practical, real-world discussions and relatable examples, Built to Last gives first responders and their families the tools to navigate the unique challenges of the profession while staying true to who they are, maintaining balance, and achieving their goals.</p>
+                </div>
+                <div class="card">
+                    <h3>Objectives</h3>
+                    <ul>
+                        <li>New hires and academy graduates</li>
+                        <li>Early-career first responders</li>
+                        <li>Field Training Officer (FTO) programs</li>
+                        <li>Department wellness, leadership, and professional development tracks</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <h3>Program Focus</h3>
+                    <p>Built to Last takes a proactive approach to career longevity, wellness, and leadership development — helping first responders:</p>
+                    <ul>
+                        <li>Stay true to their personal values and identity</li>
+                        <li>Build healthy routines for physical and mental resilience</li>
+                        <li>Strengthen family communication and balance</li>
+                        <li>Avoid the common pitfalls of first responder life</li>
+                        <li>Develop leadership habits that build trust and professionalism</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <h3>Department Benefits</h3>
+                    <ul>
+                        <li>Reinforces core values of wellness, leadership, and professionalism</li>
+                        <li>Reduces burnout, turnover, and preventable stress injuries</li>
+                        <li>Builds stronger, more resilient teams and family systems</li>
+                        <li>Enhances morale, engagement, and long-term career satisfaction</li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <h3>Why It Works</h3>
+                    <p>Developed and led by Greg Furnia, a Certified Personal & Professional Development Coach and retired Special Operations Supervisor with over 25 years of first responder experience, Built to Last combines real-world insight with practical, values-driven tools.</p>
+                    <p>This is not another classroom lecture — it's an honest, interactive approach to building habits that last a lifetime, both in service and at home.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <!-- One-on-One Section -->
     <section id="one-on-one">
         <div class="section-heading">
@@ -222,6 +278,44 @@
                 <div class="card">
                     <h3>My Approach</h3>
                     <p>This isn't just about career planning—it's about building a life grounded in what matters most. Through a proactive, family-first process, I help you align your values, strengths, and goals so you can live your version of the good life with purpose, balance, and fulfillment.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Retire Ready Cohort Section -->
+    <section id="retire-ready-cohort">
+        <div class="section-heading">
+            <h2>Retire Ready — Cohort-Based Group Coaching (8 Weeks)</h2>
+            <p>A proactive, family-first approach to life after the badge.</p>
+        </div>
+        <div class="section-content">
+            <div class="two-col">
+                <div class="card">
+                    <h3>Overview</h3>
+                    <p>Growth starts with connection and with a plan built around your personal retirement goals. This small, closed-group program is designed for first responders and their families who want a supportive space to strengthen identity and purpose, align as a family, and design a clear next chapter.</p>
+                    <p>Across eight weeks, you'll work in a confidential cohort (6-8 seats) that blends guided discussion, peer resource sharing, real-life experiences, and guided reflection plus 15-minute 1:1 laser coaching between sessions to turn insight into action.</p>
+                </div>
+                <div class="card">
+                    <h3>Who It's For</h3>
+                    <ul>
+                        <li>Current or retiring <strong>first responders</strong> (police, fire, EMS, dispatch, corrections, federal)</li>
+                        <li><strong>Spouses/partners and families</strong> navigating the transition together</li>
+                        <li>Those seeking clarity on <strong>identity & purpose</strong> beyond the role</li>
+                        <li>Anyone ready to live intentionally—with <strong>structure, accountability, and community</strong></li>
+                    </ul>
+                </div>
+                <div class="card">
+                    <h3>What to Expect</h3>
+                    <ul>
+                        <li><strong>Cohort rhythm that builds momentum</strong>: 8 weeks, bi-weekly 90-minute sessions, 6-8 participants</li>
+                        <li><strong>Between-session support</strong>: a 15-minute 1:1 with Greg after each group meeting</li>
+                        <li><strong>Clear communication framework</strong>: Laser Speaking (concise 2-minute shares) for equitable airtime</li>
+                        <li><strong>Real-world tools</strong>: practical exercises, routines, and resources you can use immediately</li>
+                        <li><strong>Values & family alignment</strong>: design a 12-month plan you'll actually act on—together</li>
+                        <li><strong>Confidential, high-trust room</strong>: coaching mindset (curiosity over advice) and shared agreements</li>
+                        <li><strong>Participant-shaped topics</strong>: the group's priorities guide where we go next</li>
+                    </ul>
                 </div>
             </div>
         </div>
