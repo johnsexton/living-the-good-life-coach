@@ -208,6 +208,12 @@ section {
     background: var(--grey);
 }
 
+.card.flexcol {
+    flex: 1 1 0; /* 3 equal-width columns */
+    display: flex;
+    flex-direction: column;
+}
+
 .section-heading {
     margin: 2rem auto 2rem;
     padding: 1.5rem 5rem;
@@ -246,8 +252,7 @@ section {
 }
 
 .connect-btn {
-    display: inline-block; 
-    margin: 2rem 0 0 0; 
+    margin-top: auto; /* pins the button to the bottom */
     padding: 0.75rem 1rem;
     text-align: center;
     border-radius: 6px;

@@ -122,17 +122,17 @@
             <p>Begin Redefining Your Future</p>
         </div>
         <div class="section-content three-col">
-            <div class="card">
+            <div class="card flexcol">
                 <h3>Retire Ready™ Workshop</h3>
-                <p>A proactive readiness and wellness initiative that is delivered in-person and on-site as a one-day professional development program to prepare personnel for successful retirement transitions. It directly supports morale, retention, and wellness objectives and can be delivered on-site as a one-day professional development program.</p>
+                <p>A proactive readiness and wellness initiative that is delivered in-person and on-site as a one-day professional development program to prepare personnel for successful retirement transitions. It directly supports morale, retention, and wellness objectives and can be delivered on-site as a one-day professional development program.<br><br></p>
                 <a href="#retire-ready" class="connect-btn blue">Learn More</a>
             </div>
-            <div class="card">
+            <div class="card flexcol">
                 <h3>1:1 Coaching for Career and Life Transitions</h3>
                 <p>Personalized, values-based coaching focused on leadership, purpose, and emotional intelligence, helping first responders and their families build balance, clarity, and resilience during career or life transitions.</p>
                 <a href="#one-on-one" class="connect-btn red">Learn More</a>
             </div>
-            <div class="card">
+            <div class="card flexcol">
                 <h3>New Hire & Academy Sessions</h3>
                 <p>Proactive, family-centered strategies that help new first responders build long, fulfilling careers without sacrificing relationships or personal freedom—enhancing morale, retention, and long-term productivity across the organization.</p>
                 <a href="#" class="connect-btn green">Learn More</a>
