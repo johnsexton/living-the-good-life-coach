@@ -17,7 +17,6 @@ h2 {
 }
 h3 {
     font-size: 1.5rem;
-    color: var(--teal);
 }
 p {
     margin-bottom: .5rem;
@@ -147,13 +146,13 @@ header.scrolled .nav-links a::after {
 }
 
 #hero img {
-    width: 400px;
+    width: 250px;
     margin-bottom: 2rem;
 }
 
 #hero .goodlife {
     font-family: 'Delicious Handrawn', cursive;
-    font-size: 3rem;
+    font-size: 2rem;
     text-shadow:
     -2px -2px 0 var(--black),
      2px -2px 0 var(--black),
@@ -180,7 +179,7 @@ header.scrolled .nav-links a::after {
 }
 
 section {
-    padding: 4rem 6rem;
+    padding: 4rem 0;
 }
 
 .two-col,
@@ -215,7 +214,7 @@ section {
 }
 
 .section-heading {
-    margin: 2rem auto 2rem;
+    margin: 2rem auto;
     padding: 1.5rem 5rem;
     color: var(--grey);
     background: var(--black);
@@ -245,10 +244,10 @@ section {
 }
 
 #about img {
-    max-width: 300px;
-    border-radius: 10px;
-    float: right;
-    margin: 0 0 1.5rem 1.5rem;
+    display: block;
+    margin: 0 auto 1.5rem auto;
+    width: 100%;
+    max-width: 400px;
 }
 
 .connect-btn {
@@ -288,4 +287,28 @@ footer img {
 
 footer .right {
     text-align: right;
+}
+
+
+/* MEDIA QUERIES */
+@media (min-width: 768px) {
+
+    #hero img {
+        width: 400px;
+    }
+
+    #hero .goodlife {
+        font-size: 3rem;
+    }
+
+    section {
+        padding: 4rem 6rem;
+    }
+    
+    #about img {
+        max-width: 400px;
+        border-radius: 10px;
+        float: right;
+        margin: 0 0 1.5rem 1.5rem;
+    }
 }
