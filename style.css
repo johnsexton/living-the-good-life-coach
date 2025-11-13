@@ -64,12 +64,20 @@ header {
     max-height: 75px;
 }
 
-.logo h1 {
+.site-title {
+    margin: 0;
     padding-left: .5rem;
     font-size: 1.8rem;
     line-height: 1rem;
     font-weight: bold;
     display: inline;
+}
+
+.subtitle {
+    margin-left: 3.3rem;
+    font-size: 1rem;
+    font-weight: normal;
+    display: block;
 }
 
 .logo a {
@@ -78,7 +86,7 @@ header {
 }
 
 .logo img {
-    margin-bottom: -10px;
+    margin-bottom: -20px;
 }
 
 nav {

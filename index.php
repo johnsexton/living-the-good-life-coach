@@ -17,7 +17,7 @@
             <div class="logo">
                 <a href="#top">
                     <img style="width: 40px;" src="img/logo/badge-sm.png" alt="Living The Good Life Coach"> 
-                    <h1>Greg Furnia</h1>
+                    <h1 class="site-title">Greg Furnia <span class="subtitle">Certified Coach &bullet; First Responder wellness & Leadership Training</span></h1>
                 </a>
             </div>
             <ul class="nav-links">
