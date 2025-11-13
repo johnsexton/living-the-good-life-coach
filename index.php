@@ -32,7 +32,7 @@
     <!-- Hero Section -->
     <section id="hero">
         <div class="section-content">
-            <img class="align-right" src="img/logo/badge.png" alt="Challenge coin with graphics of a handshake">
+            <img class="align-right" src="img/logo/badge1.png" alt="Challenge coin with graphics of a handshake">
             <div class="goodlife">Ready to Start Living the Good Life?</div>
             <div><a href="mailto:gregfurnialifecoaching@gmail.com" class="btn">Book a Free Consultation</a></div>
         </div>

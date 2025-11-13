@@ -142,22 +142,24 @@ header.scrolled .nav-links a::after {
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: var(--grey);
+    color: var(--black);
 }
 
 #hero img {
-    width: 250px;
-    margin-bottom: 2rem;
+    margin: 2rem auto 0;
+    width: 400px;
 }
 
 #hero .goodlife {
     font-family: 'Delicious Handrawn', cursive;
     font-size: 2rem;
+    /*
     text-shadow:
     -2px -2px 0 var(--black),
      2px -2px 0 var(--black),
     -2px  2px 0 var(--black),
      2px  2px 0 var(--black);
+     */
 }
 
 #hero .btn {
@@ -294,7 +296,7 @@ footer .right {
 @media (min-width: 768px) {
 
     #hero img {
-        width: 400px;
+        width: 500px;
     }
 
     #hero .goodlife {
