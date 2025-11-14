@@ -248,7 +248,7 @@ header.scrolled .menu-btn span {
      */
 }
 
-#hero .btn {
+.hero-btn {
     display: inline-block;
     margin: 1rem auto;
     padding: 0.7rem 1.5rem;
@@ -262,12 +262,33 @@ header.scrolled .menu-btn span {
     cursor: pointer;
 
 }
-.btn:hover {
+.hero-btn:hover {
     background: var(--accent);
+}
+
+.contact-btn {
+    display: inline-block;
+    margin: .5rem 1rem;
+    padding: 0.7rem 1.5rem;
+    color: var(--accent);
+    border: 4px solid var(--accent);
+    border-radius: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+.contact-btn:hover {
+    background: var(--accent);
+    color: var(--black);
 }
 
 section {
     padding: 4rem 0;
+}
+
+.one-col .card {
+    margin-bottom: 2rem;
 }
 
 .two-col,
@@ -431,7 +452,7 @@ footer .right {
     }
 }
 
-@media (min-width: 900px) {
+@media (min-width: 1000px) {
 
     .subtitle { 
         display: block; 

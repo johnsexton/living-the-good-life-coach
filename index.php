@@ -31,6 +31,7 @@
                 <li><a href="#about">About Me</a></li>
                 <li><a href="#approach">My Approach</a></li>
                 <li><a href="#services">Services</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
                 <li><a href="#faq">FAQ</a></li>
             </ul>
         </nav>
@@ -41,7 +42,7 @@
         <div class="section-content">
             <img class="align-right" src="img/logo/badge1.png" alt="Challenge coin with graphics of a handshake">
             <div class="goodlife">Ready to Start Living the Good Life?</div>
-            <div><a href="mailto:gregfurnialifecoaching@gmail.com" class="btn">Book a Free Consultation</a></div>
+            <div><a href="mailto:gregfurnialifecoaching@gmail.com" class="hero-btn">Book a Free Consultation</a></div>
         </div>
     </section>
 
@@ -96,7 +97,7 @@
             </div>
             <div></div>
         </div>
-        
+        <!--
         <div class="section-heading">
             <h2>Do We Make a Good Team?</h2>
             <p>As you are already aware, there are many life coaches, mentors, personal coaches, and Certified Professional Life Coaches available, each with unique backgrounds and areas of expertise, along with slightly different styles and approaches. I believe that in order for us to form the best team possible, we need to have a natural connection and share the same passion for working side by side to achieve our desired results.</p>
@@ -119,7 +120,7 @@
                 </ul>
             </div>
         </div>
-
+        -->
     </section>
 
     <!-- Services Section -->
@@ -157,6 +158,7 @@
         <div class="section-heading">
             <h2>Retire Ready: Pre-Retirement Readiness and Wellness Training</h2>
             <p>A proactive readiness and wellness initiative that helps departments prepare personnel for successful retirement transitions. It directly supports morale, retention, and wellness objectives and can be delivered on-site as a one-day professional development program.</p>
+            <a class="contact-btn" href="mailto:gregfurnialifecoaching@gmail.com?subject=Retire Ready Inquiry">Email to Inquire</a> <a class="contact-btn" href="https://calendar.app.google/FHZYaan8P884bkJEA">Schedule a Consulation</a>
         </div>
         <div class="section-content">
             <div class="two-col">
@@ -204,6 +206,7 @@
         <div class="section-heading">
             <h2>Built to Last (Agency Training)</h2>
             <p>A proactive approach to building a fulfilling personal and professional life in service.</p>
+            <a class="contact-btn" href="mailto:gregfurnialifecoaching@gmail.com?subject=Built to Last Inquiry">Email to Inquire</a> <a class="contact-btn" href="https://calendar.app.google/SL1HkGPKUbK3dCD99">Schedule a Consulation</a>
         </div>
         <div class="section-content">
             <div class="two-col">
@@ -255,6 +258,7 @@
         <div class="section-heading">
             <h2>One-on-one Coaching</h2>
             <p>Growth starts with connection—and with a proactive plan. Through personalized one-on-one sessions, I help first responders and their families strengthen leadership, navigate career and life transitions, and build balance between work and home. Each session draws on real-world experience, shared values, and a family-first approach—empowering you to take charge of your growth, prepare for what's next, and live your version of the good life.</p>
+            <a class="contact-btn" href="mailto:gregfurnialifecoaching@gmail.com?subject=One-on-One Coaching Inquiry">Email to Inquire</a> <a class="contact-btn" href="https://calendar.app.google/5EtJyNkqhmSX8zK78">Schedule a Consultation</a>
         </div>
         <div class="section-content">
             <div class="two-col">
@@ -295,6 +299,7 @@
         <div class="section-heading">
             <h2>Retire Ready — Cohort-Based Group Coaching (8 Weeks)</h2>
             <p>A proactive, family-first approach to life after the badge.</p>
+            <a class="contact-btn" href="mailto:gregfurnialifecoaching@gmail.com?subject=Retire Ready Cohort Inquiry">Email to Inquire</a> <a class="contact-btn" href="https://calendar.app.google/D7Dfm7x4RLALtJoo6">Schedule a Consultation</a>
         </div>
         <div class="section-content">
             <div class="two-col">
@@ -324,6 +329,23 @@
                         <li><strong>Participant-shaped topics</strong>: the group's priorities guide where we go next</li>
                     </ul>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="testimonials">
+        <div class="section-heading">
+            <h2>Testimonials</h2>
+        </div>
+        <div class="section-content one-col">
+            <div class="card">
+                <p>I am going through the Border Patrol Academy which provides many changes, new opportunities, challenges, and experiences. Greg has been there to assist in showing me different perspectives and advantages/disadvantages to the many different questions and challenges I am presented with. He asks me questions which helps me think outside the box on potential options for myself will be more beneficial to me in the present and the future. I have never had a life coach before and I figured sense I had many “life based” questions than it would be worth a shot. It has been a great and extremely beneficial decision and I look forward to the meetings. <strong>-TA</strong></p>
+            </div>
+            <div class="card">
+                <p>After working with Greg just 3 times I felt as though there was a difference with my work-life balance. Greg is compassionate, professional, and attentive. I find that he uses his own life experience to relate, and that makes me feel understood. Through his listening skills, Greg will give you actionable items to either help improve your situation, or allow you to reflect and recognize the problem in the future. Lastly, he is there to help celebrate your achievements no matter how big or small. <strong>-GC</strong></p>
+            </div>
+            <div class="card">
+                <p>I was going through a difficult time after a 2-year relationship ended. I lost my partner of 30 years 3 years ago as well. I was emotionally drained and not feeling good about myself. I reached out to Greg, he helped me find the path I was looking for. The thing that impressed me working with Greg is that he poses questions, gave me exercises to do that made me think about what is important. Greg had me thinking again of my core values from there I am able to prioritize my life and decide for myself where I want to be. Greg is very easy to talk to, available when I need to reach out. So very professional. I highly recommend him as a life coach. <strong>-CF</strong></p>
             </div>
         </div>
     </section>
