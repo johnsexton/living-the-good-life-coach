@@ -59,7 +59,7 @@
     <!-- Approach Section -->
     <section id="approach">
         <div class="section-heading">
-            <h2>My Coaching Approach</h2>
+            <h2>My Approach</h2>
             <p>By combining personal growth with professional development, my mission is to empower you to excel in every facet of life. With a commitment to integrity, empathy, and a family-first mindset, I am here to help you build a legacy of effective leadership and personal fulfillment.</p>
         </div>
         <div class="section-content two-col">
