@@ -318,7 +318,7 @@ section {
 
 .section-heading {
     margin: 2rem auto;
-    padding: 1.5rem 5rem;
+    padding: 1.5rem 2rem;
     color: var(--grey);
     background: var(--black);
     text-align: center;
@@ -525,7 +525,11 @@ footer .right {
     section {
         padding: 4rem 6rem;
     }
-    
+
+    .section-heading {
+        padding: 1.5rem 5rem;
+    }
+
     #about img {
         max-width: 400px;
         border-radius: 10px;
