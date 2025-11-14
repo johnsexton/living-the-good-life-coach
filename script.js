@@ -16,3 +16,10 @@ window.addEventListener("scroll", () => {
     header.classList.remove("scrolled");
   }
 });
+
+document.querySelectorAll('.nav-links a').forEach(link => {
+    link.addEventListener('click', () => {
+      const toggle = document.getElementById('nav-toggle');
+      if (toggle.checked) toggle.checked = false;
+    });
+  });
