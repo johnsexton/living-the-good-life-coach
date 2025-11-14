@@ -350,14 +350,88 @@
         </div>
     </section>
 
+    <?php
+    $faq = [
+        "General / About" => [
+            ["q" => "Who will I be working with?", "a" => "You'll be working directly with me, Greg Furnia. I'm a certified personal and professional development coach with over 25 years of law enforcement and leadership experience. Before founding Living the Good Life LLC, I served in special operations, supervision, and training roles, developing and delivering programs for first responders across different stages of their careers. My approach is family-first and values-driven, grounded in real-world experience on the job and at home. I also serve as a Volunteer Executive Career Coach with The Honor Foundation and as a Volunteer Peer Support Provider with UCF RESTORES BlueLine, which keeps me closely connected to the challenges service members, veterans, and first responders face in both their careers and major life transitions."],
+            ["q" => "Who do you work with?", "a" => "I primarily work with first responders, law enforcement professionals, and those who support them — including spouses, partners, and family members. I also work with agencies and departments that want proactive, values-based training around wellness, leadership, career longevity, and retirement readiness."],
+            ["q" => "What services do you offer?","a" => "I offer 1:1 personal and professional development coaching, the Retire Ready Group Coaching Cohort, Retire Ready Pre-Retirement Readiness & Wellness Training for agencies, and the Built to Last career longevity and leadership foundations program for new hires and emerging leaders. I also provide speaking, custom workshops, and training for conferences and special events."],
+            ["q" => "How is coaching different from therapy or counseling?", "a" => "Coaching is future-focused and action-oriented. We work on goals, strategies, and habits to help you move forward — not diagnose or treat mental health conditions. While I strongly support clinical professionals, my role is as a certified coach and peer support provider. When appropriate, I may encourage you to connect with mental health, financial, or legal professionals as part of a well-rounded support plan."],
+            ["q" => "Do I have to be a first responder to work with you?", "a" => "No. While my work is centered on first responders and their families, I occasionally work with other high-stress professionals whose values, needs, and goals align with my approach."],
+            ["q" => "Do you offer virtual or in-person services?", "a" => "Yes. Most 1:1 coaching and group cohort sessions are offered virtually for flexibility and accessibility. Agency training and workshops (Retire Ready and Built to Last) can be delivered in person or virtually, depending on your needs, budget, and logistics."],
+            ["q" => "How do we get started?", "a" => "The first step is a brief introductory conversation to understand what you're looking for and determine the best fit. From there, we'll decide whether 1:1 coaching, the Retire Ready Cohort, or an agency training like Retire Ready or Built to Last is the right next step."],
+            ["q" => "Is our work together confidential?", "a" => "Yes. I treat our conversations with professionalism and discretion. For individuals, what you share stays between us, within legal and ethical limits. For agency-based training, I do not report back personal details from group discussions unless we've agreed in advance on specific feedback for program evaluation or safety reasons."],
+            ["q" => "Do you provide financial, legal, or clinical advice?", "a" => "No. I provide values-based, resource-focused guidance around life transitions, retirement readiness, leadership, and wellness. I do not provide financial, legal, or clinical advice. When needed, I encourage clients to connect with qualified professionals in those areas."],
+            ["q" => "What is your cancellation or rescheduling policy?", "a" => "I have a clear cancellation and rescheduling policy for both individuals and agencies, designed to respect everyone's time while allowing reasonable flexibility. Full details are provided at the time of booking."]
+        ],
+        "1:1 Personal & Professional Development Coaching" => [
+            ["q" => "How do I know if we're a good fit to work together?", "a" => "We're likely a good fit if our stories and values resonate, and you feel a natural connection to my approach. If you're passionate about working side by side, ready to be honest, and willing to put in the work to create change in your personal and professional life, we'll make a strong team."],
+            ["q" => "What do you expect from me as a client?", "a" => "I expect you to be 100% committed to the change you're seeking. That means showing up, doing the work between sessions, being honest about what's really going on, and being willing to invest in your own happiness, growth, and long-term success."],
+            ["q" => "What kind of commitment do I need to make to see results?", "a" => "Real results come when you're all-in. If you're ready to take responsibility, follow through on action steps, and stay engaged even when it's uncomfortable, coaching can be a powerful catalyst. If you're “trying it out” for someone else, or only half-committed, you're unlikely to get what you're looking for."],
+            ["q" => "What if I'm worried about the cost of coaching?", "a" => "It's normal to think about cost. Coaching, however, is an investment in your life, your relationships, and your future. If cost is your primary concern and outweighs your desire to grow, it may not be the right time. If you see coaching as a way to support your long-term happiness and fulfillment, we're aligned."],
+            ["q" => "When might 1:1 coaching not be right for me?", "a" => "Coaching may not be a good fit right now if you've been pushed into it by someone else, if you're not truly ready to change, or if you're more focused on the price than on the value of the process. Without genuine buy-in, you won't get the results you want."],
+            ["q" => "How often do we meet and how long are sessions?", "a" => "Session length and frequency are tailored to your needs and goals. During our initial conversation, we'll talk through what you're working on and create a coaching rhythm that supports consistent progress without overwhelming your schedule."]
+        ],
+        "Retire Ready - Group Coaching Cohort (Individuals & Families)" => [
+            ["q" => "Who is the Retire Ready Cohort for?", "a" => "Retire Ready is for first responders who are approaching retirement, recently retired, or thinking seriously about life after the job. It's also designed with spouses and partners in mind, recognizing that retirement is a family transition, not just an individual one."],
+            ["q" => "What does the Retire Ready Cohort cover?", "a" => "We focus on the “human side” of retirement: <ul><li>Who you are beyond the badge or uniform</li><li>Identity and purpose in the next chapter</li><li>Communication and connection at home</li><li>Values and lifestyle alignment</li><li>How career trauma and stress may show up in retirement</li><li>Building a practical, values-based plan for life after the job</li></ul>"],
+            ["q" => "How is the cohort structured?", "a" => "Retire Ready runs as a small-group coaching program (typically 6-8 participants) over a set number of weeks. Sessions are live and interactive — not just lectures. You'll have guided discussions, reflection prompts, and practical tools to apply between sessions."],
+            ["q" => "Can my spouse or partner be involved?", "a" => "Yes, and in many cases it's encouraged. Certain parts of the program are ideal for partner participation, while other conversations are reserved for the cohort members only. We'll outline how partner involvement works when you join a cohort."],
+            ["q" => "Is this only for people about to retire right now?", "a" => "No. Many participants are within a couple of years of retirement, but others join earlier to get ahead of the curve. If you're planning for retirement and want to be intentional — instead of just hoping it all works out — this program is for you."],
+            ["q" => "What kind of results can I expect from Retire Ready?", "a" => "You can expect greater clarity about your identity beyond the job, more honest and productive conversations with your family, and a values-driven plan for your next chapter. You'll also gain language and tools to talk about retirement, stress, and expectations in a healthier way. The program provides structure and support — your follow-through brings the results."],
+            ["q" => "Will I be working directly with Greg in the cohort?", "a" => "Yes. All Retire Ready Cohorts are facilitated directly by me, Greg, and I'm present in the sessions with you — not handing you off to someone else."],
+            ["q" => "How do I join the next cohort?", "a" => "You can submit an interest form or booking inquiry through the website. I'll follow up with details on dates, pricing, and expectations, and we'll confirm that the cohort is a good fit before securing your spot."]
+        ],
+        "Agency Trainings (Retire Ready & Built to Last)" => [
+            ["q" => "What is Retire Ready Pre-Retirement Readiness & Wellness Training?", "a" => "Retire Ready for agencies is an instructor-led pre-retirement readiness and wellness training for your personnel. It focuses on the emotional, relational, and identity-based side of retirement — helping members and their families prepare for life after the job, not just the financial aspects."],
+            ["q" => "Who is this training for?", "a" => "This training is ideal for sworn and civilian staff within a few years of retirement or DROP, as well as leaders who want to better support members approaching transition. Agencies may also choose to include spouses and partners for certain components or follow-on resources."],
+            ["q" => "How long is the training and how is it delivered?", "a" => "Retire Ready is typically delivered as a one-day instructor-led training, either on-site or virtually. The day includes interactive modules, guided discussions, and practical tools — not just PowerPoint slides."],
+            ["q" => "How does this benefit the agency?", "a" => "When personnel feel prepared for retirement, they tend to be more focused, engaged, and less anxious in their final years of service. This training supports wellness, morale, and legacy by helping your people exit well — which reflects positively on your department and its culture."],
+            ["q" => "Is this considered wellness or professional development?", "a" => "Both. Retire Ready is framed as Pre-Retirement Readiness and Wellness Training and aligns well with professional development, leadership, and wellness initiatives. It is non-clinical, educational, and focused on proactive planning."],
+            ["q" => "Can the training be customized for our department?", "a" => "Yes. While the core framework stays consistent, we can tailor examples, discussion points, and emphasis areas to your agency's culture, policies, and needs."]
+        ],
+        "Built to Last - Career Longevity & Leadership" => [
+            ["q" => "What is the Built to Last program?", "a" => "Built to Last is a proactive training designed to help first responders build a strong foundation for both career and life in service. It focuses on wellness, communication, family balance, and early leadership development so your people can not only sustain their careers, but truly flourish — at work and at home."],
+            ["q" => "Who is Built to Last designed for?", "a" => "Built to Last fits especially well with new hires, probationary members, and those in FTO or early-career development programs. It's also valuable for emerging leaders and mid-career personnel who want to avoid common pitfalls and build sustainable habits."],
+            ["q" => "How does Built to Last fit into our FTO or training program?", "a" => "Built to Last can be integrated into your existing FTO or new-hire curriculum, or delivered as a standalone workshop. We'll work with your leadership or training staff to align content with your department's values, expectations, and current training structure."],
+            ["q" => "What topics are covered in Built to Last?", "a" => "Core themes include: </p>
+            <ul>
+                <li>Communication as the foundation</li>
+                <li>Defining &quot;Family&quot; and support systems</li>
+                <li>Values, strengths, and weaknesses</li>
+                <li>Integrity and accountability</li>
+                <li>Purpose and long-term vision</li>
+                <li>Proactive strategies to avoid burnout and common first responder pitfalls</li>
+            </ul>
+            <p>The underlying message: You can pursue a successful career and protect your life outside of work."],
+            ["q" => "Is this just a “soft” wellness class? Will our people take it seriously?", "a" => "Built to Last is practical, direct, and grounded in real-world experience. It's not fluff, and it's not about buzzwords. The training respects the realities of the job and gives your people language, tools, and frameworks they can use immediately."],
+            ["q" => "What's the commitment for our agency to host a training?", "a" => "You provide the audience, training space (or virtual platform), and dedicated time on the schedule. I provide the curriculum, materials, and facilitation. Before confirming dates, we'll clarify objectives, logistics, and any department-specific needs so the training delivers maximum value."],
+            ["q" => "How do payments and invoices work for agencies?", "a" => "Agencies typically pay by invoice under agreed-upon terms. Pricing is based on delivery format, group size, customization, and travel if required. You'll receive a clear written proposal that fits your procurement and budgeting process."]
+        ]
+    ];
+    // ["q" => "", "a" => ""],
+    ?>
+
     <section id="faq">
         <div class="section-heading">
             <h2>Frequently Asked Questions</h2>
         </div>
-        <div class="section-content">
+        <div class="section-content one-col">
+            <?php foreach ($faq as $category => $items): ?>
             <div class="card">
-                <p>Content goes here.</p>
+                <h3><?= htmlspecialchars($category) ?></h3>
+                <?php foreach ($items as $item): ?>
+                <details>
+                    <summary><?= htmlspecialchars($item['q']) ?></summary>
+                    <div class="faq-collapse">
+                        <div class="faq-content">
+                            <p><?= $item['a'] ?></p>
+                        </div>
+                    </div>
+                </details>
+                <?php endforeach; ?>
             </div>
+            <?php endforeach; ?>
         </div>
     </section>
 

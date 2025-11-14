@@ -16,19 +16,3 @@ window.addEventListener("scroll", () => {
     header.classList.remove("scrolled");
   }
 });
-
-// Accordion functionality
-document.addEventListener('DOMContentLoaded', () => {
-  const headers = document.querySelectorAll('.accordion-header');
-
-  headers.forEach(header => {
-    header.addEventListener('click', () => {
-      const expanded = header.getAttribute('aria-expanded') === 'true';
-
-      // Optional: collapse other items
-      headers.forEach(h => h.setAttribute('aria-expanded', 'false'));
-
-      header.setAttribute('aria-expanded', !expanded);
-    });
-  });
-});
