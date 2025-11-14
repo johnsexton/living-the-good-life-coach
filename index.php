@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Greg Furnia | Living the Good Life Coach</title>
-    <meta name="description" content="Transform your life with expert life coaching focused on mindfulness, goal setting, and personal growth. Book a free consultation today!">
+    <meta name="description" content="Certified Coach &bullet; First Responder Wellness & Leadership Training &bullet; Supporting first responders, their families, and agencies with proactive wellness, leadership, and transition training.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Oswald:wght@200..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
