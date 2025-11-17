@@ -92,6 +92,12 @@ nav {
     font-weight: bold;
     display: inline-block;
 }
+.subtitle {
+    margin: .5rem 0 0 0;
+    font-size: 1rem;
+    font-weight: normal;
+    display: block;
+}
 
 /* --- mobile-first nav --- */
 .nav-toggle { 
@@ -218,7 +224,7 @@ header.scrolled .menu-btn span {
 
 #hero {
     margin-top: -90px;
-    background: url('img/hero1.png') no-repeat center center/cover;
+    background: url('img/newhero.jpg') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     justify-content: center;

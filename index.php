@@ -18,7 +18,7 @@
             <div class="logo">
                 <a href="#top">
                     <img src="img/logo/badge-sm.png" alt="Living The Good Life Coach">
-                    <h1 class="site-title">Greg Furnia</h1>
+                    <h1 class="site-title">Greg Furnia <span class="subtitle">Certified Coach &bullet; First Responder Wellness & Leadership Training</span></h1>
                 </a>
             </div>
 
@@ -42,7 +42,7 @@
         <div class="section-content">
             <img class="align-right" src="img/logo/badge1.png" alt="Challenge coin with graphics of a handshake">
             <div class="goodlife">Ready to Start Living the Good Life?</div>
-            <div><a href="mailto:gregfurnialifecoaching@gmail.com" class="hero-btn">Book a Free Consultation</a></div>
+            <div><a href="#services" class="hero-btn">View The Services I Offer</a></div>
         </div>
     </section>
 
@@ -132,22 +132,26 @@
         </div>
         <div class="section-content two-col">
             <div class="card button-card">
-                <h3>Retire Ready Pre-Retirement Readiness and Wellness Training (Instructor-Led Training - ILT, Agency Training)</h3>
+                <h3>Retire Ready Pre-Retirement Readiness and Wellness Training</h3>
+                <p>Format: <strong>Instructor-Led Training (ILT) for Agencies</strong></p>
                 <p>A proactive readiness and wellness initiative that helps departments prepare personnel for successful retirement transitions. It directly supports morale, retention, and wellness objectives and is delivered on-site as a one-day professional development program.</p>
                 <a href="#retire-ready" class="learn-more-btn blue">Learn More</a>
             </div>
             <div class="card button-card">
-                <h3>Built to Last - A proactive approach to building a fulfilling personal and professional life in service. (Agency Training)</h3>
+                <h3>Built to Last Wellness and Leadership Training</h3>
+                <p>Format: <strong>Instructor-Led Training (ILT) for Agencies</strong></p>
                 <p>Built to Last is designed for first responders who are just beginning or still building  their careers in service.  This program helps participants develop the mindset, habits, and support systems that lead to a long, healthy, and purpose-driven life both on and off the job enhancing morale, retention, and long-term productivity across the organization.</p>
                 <a href="#built-to-last" class="learn-more-btn red">Learn More</a>
             </div>
             <div class="card button-card">
-                <h3>Personal & Professional Development (1:1 Coaching) - A proactive, family-first approach to leadership and life.</h3>
+                <h3>Personal & Professional Development</h3>
+                <p>Format: <strong>One-on-One Coaching</strong></p>
                 <p>Growth starts with connection—and with a proactive plan. These personalized one-on-one sessions are designed for first responders and their families who want to strengthen leadership skills, navigate career and life transitions, and build balance between work and home.</p>
                 <a href="#one-on-one" class="learn-more-btn green">Learn More</a>
             </div>
             <div class="card button-card">
-                <h3>Retire Ready — Cohort-Based Group Coaching (8 Weeks) - A proactive, family-first approach to life after the badge.</h3>
+                <h3>Retire Ready Group Coaching</h3>
+                <p>Format: <strong>Cohort-Based</strong></p>
                 <p>Growth starts with connection and with a plan built around your personal retirement goals. This small, closed-group program is designed for first responders and their families who want a supportive space to strengthen identity and purpose, align as a family, and design a clear next chapter.</p>
                 <a href="#retire-ready-cohort" class="learn-more-btn blue">Learn More</a>
             </div>
@@ -157,7 +161,7 @@
     <!-- Retire Ready Section -->
     <section id="retire-ready">
         <div class="section-heading">
-            <h2>Retire Ready: Pre-Retirement Readiness and Wellness Training</h2>
+            <h2>Retire Ready Pre-Retirement Readiness and Wellness Training</h2>
             <p>A proactive readiness and wellness initiative that helps departments prepare personnel for successful retirement transitions. It directly supports morale, retention, and wellness objectives and can be delivered on-site as a one-day professional development program.</p>
             <a class="contact-btn" href="mailto:gregfurnialifecoaching@gmail.com?subject=Retire Ready Inquiry">Email to Inquire</a> <a class="contact-btn" href="https://calendar.app.google/FHZYaan8P884bkJEA">Schedule a Consulation</a>
         </div>
@@ -205,7 +209,7 @@
     <!-- Built to Last Section -->
     <section id="built-to-last">
         <div class="section-heading">
-            <h2>Built to Last (Agency Training)</h2>
+            <h2>Built to Last Wellness and Leadership Training</h2>
             <p>A proactive approach to building a fulfilling personal and professional life in service.</p>
             <a class="contact-btn" href="mailto:gregfurnialifecoaching@gmail.com?subject=Built to Last Inquiry">Email to Inquire</a> <a class="contact-btn" href="https://calendar.app.google/SL1HkGPKUbK3dCD99">Schedule a Consulation</a>
         </div>
@@ -257,7 +261,7 @@
     <!-- One-on-One Section -->
     <section id="one-on-one">
         <div class="section-heading">
-            <h2>One-on-one Coaching</h2>
+            <h2>Personal & Professional Development</h2>
             <p>Growth starts with connection—and with a proactive plan. Through personalized one-on-one sessions, I help first responders and their families strengthen leadership, navigate career and life transitions, and build balance between work and home. Each session draws on real-world experience, shared values, and a family-first approach—empowering you to take charge of your growth, prepare for what's next, and live your version of the good life.</p>
             <a class="contact-btn" href="mailto:gregfurnialifecoaching@gmail.com?subject=One-on-One Coaching Inquiry">Email to Inquire</a> <a class="contact-btn" href="https://calendar.app.google/5EtJyNkqhmSX8zK78">Schedule a Consultation</a>
         </div>
@@ -298,7 +302,7 @@
     <!-- Retire Ready Cohort Section -->
     <section id="retire-ready-cohort">
         <div class="section-heading">
-            <h2>Retire Ready — Cohort-Based Group Coaching (8 Weeks)</h2>
+            <h2>Retire Ready Group Coaching</h2>
             <p>A proactive, family-first approach to life after the badge.</p>
             <a class="contact-btn" href="mailto:gregfurnialifecoaching@gmail.com?subject=Retire Ready Cohort Inquiry">Email to Inquire</a> <a class="contact-btn" href="https://calendar.app.google/D7Dfm7x4RLALtJoo6">Schedule a Consultation</a>
         </div>
