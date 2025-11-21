@@ -475,7 +475,7 @@ footer .right {
     * { transition: none !important; }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1000px) {
 
     .menu-btn { display: none; }
     .nav-links {
