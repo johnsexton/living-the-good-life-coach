@@ -216,37 +216,41 @@
         <div class="section-content">
             <div class="two-col">
                 <div class="card">
-                    <h3>Overview</h3>
-                    <p>Built to Last is designed for first responders who are just beginning or still building  their careers in service.  This program helps participants develop the mindset, habits, and support systems that lead to a long, healthy, and purpose-driven life both on and off the job.</p>
-                    <p>Through practical, real-world discussions and relatable examples, Built to Last gives first responders and their families the tools to navigate the unique challenges of the profession while staying true to who they are, maintaining balance, and achieving their goals.</p>
+                    <h3>Program Description</h3>
+                    <p>A one-day, instructor-led professional development and wellness program for new and early-career first responders—and the leaders who guide them. Built to Last focuses on proactive career longevity, leadership foundations, values alignment, and family/partner awareness, so members can succeed in the job without sacrificing who they are at home.</p>
+                    <p>Participants leave with practical tools to avoid common first responder pitfalls, a personal “Built to Last” action plan, conversation prompts to take back to their families, and access to ongoing resources that support resilience, performance, and long-term career satisfaction.</p>
                 </div>
                 <div class="card">
                     <h3>Objectives</h3>
                     <ul>
-                        <li>New hires and academy graduates</li>
-                        <li>Early-career first responders</li>
-                        <li>Field Training Officer (FTO) programs</li>
-                        <li>Department wellness, leadership, and professional development tracks</li>
+                        <li>Equip new and early-career first responders with proactive strategies to build a long, healthy, and values-centered career in service.</li>
+                        <li>Reduce risk of burnout, compassion fatigue, and conduct issues tied to unmanaged stress, isolation, or poor boundaries.</li>
+                        <li>Integrate leadership foundations and personal accountability into FTO programs, academies, and early-career development.</li>
+                        <li>Strengthen communication and expectations between members, families, FTOs, and supervisors around life in service.</li>
+                        <li>Support morale, culture, and retention by teaching “how to do this job well without losing yourself—or your family.”</li>
+                        <li>Connect participants to vetted wellness, peer support, and coaching resources for ongoing support throughout their career.</li>
                     </ul>
                 </div>
                 <div class="card">
-                    <h3>Program Focus</h3>
-                    <p>Built to Last takes a proactive approach to career longevity, wellness, and leadership development — helping first responders:</p>
+                    <h3>For Agencies</h3>
+                    <p>Agencies can host up to 25 participants per session—ideal for recruit classes, FTOs and training staff, or early-career personnel—with the option to include spouses/partners in designated segments or as an add-on session.</p>
                     <ul>
-                        <li>Stay true to their personal values and identity</li>
-                        <li>Build healthy routines for physical and mental resilience</li>
-                        <li>Strengthen family communication and balance</li>
-                        <li>Avoid the common pitfalls of first responder life</li>
-                        <li>Develop leadership habits that build trust and professionalism</li>
+                        <li>“This program is non-clinical, educational, and wellness-based.”</li>
+                        <li>“Developed and delivered by a certified personal and professional development coach with 26 years of federal law enforcement experience.”</li>
+                        <li>“Designed to integrate seamlessly with FTO programs, academy curricula, and in-service training days.”</li>
+                        <li>“Fully portable for on-site or regional delivery; compliant with agency training and travel standards.”</li>
+                        <li>“Invoices provided with detailed itemization; vendor W-9 and documentation available upon request.”</li>
+                        <li>“This program meets agency wellness, leadership development, and retention initiative criteria under applicable state and local training codes.”</li>
                     </ul>
                 </div>
                 <div class="card">
-                    <h3>Department Benefits</h3>
+                    <h3>Procurement Categories</h3>
                     <ul>
-                        <li>Reinforces core values of wellness, leadership, and professionalism</li>
-                        <li>Reduces burnout, turnover, and preventable stress injuries</li>
-                        <li>Builds stronger, more resilient teams and family systems</li>
-                        <li>Enhances morale, engagement, and long-term career satisfaction</li>
+                        <li>Training and Professional Development</li>
+                        <li>Early-Career Resilience and Retention Initiative</li>
+                        <li>Leadership Foundations & Field Training Support</li>
+                        <li>Family Support and Resilience Education</li>
+                        <li>Resource & Referral Awareness Training (non-clinical wellness support)</li>
                     </ul>
                 </div>
                 <div class="card">
