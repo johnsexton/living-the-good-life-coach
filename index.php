@@ -42,7 +42,7 @@
         <div class="section-content">
             <img class="align-right" src="img/logo.png" alt="Badge with a green, red, and blue path leading toward a gold star with the words Family First, Trust, Purpose, Values">
             <div class="goodlife">Ready to Start Living the Good Life?</div>
-            <div><a href="#services" class="hero-btn">View The Services I Offer</a></div>
+            <div><a href="#services" class="hero-btn">Learn About My Services</a></div>
         </div>
     </section>
 
@@ -238,7 +238,7 @@
         <div class="section-heading">
             <h2>Personal & Professional Development</h2>
             <p>Helping first responders proactively lead, grow, and thrive at work and at home.</p>
-            <a class="contact-btn" href="mailto:gregfurnialifecoaching@gmail.com?subject=One-on-One Coaching Inquiry">Email to Inquire</a> <a class="contact-btn" href="https://calendar.app.google/5EtJyNkqhmSX8zK78">Schedule a Consultation</a>
+            <a class="contact-btn" href="https://calendar.app.google/dNGD4K2oPSnrNCsE7">Book a Call to Learn More</a> <a class="contact-btn" href="https://calendar.app.google/WLqhUp7EMP9e27h88">Book a Session</a>
         </div>
         <div class="section-content">
             <div class="two-col">
@@ -275,14 +275,14 @@
         <div class="section-heading">
             <h2>Retire Ready Group Coaching</h2>
             <p>A proactive, family-first approach to life after the badge.</p>
-            <a class="contact-btn" href="mailto:gregfurnialifecoaching@gmail.com?subject=Retire Ready Cohort Inquiry">Email to Inquire</a>
+            <a class="contact-btn" href="https://calendar.app.google/vm9iYWrSfjm7RmG88">Book a Call to Learn More</a>
         </div>
         <div class="section-content">
             <div class="two-col">
                 <div class="card">
                     <h3>Overview</h3>
                     <p>Growth starts with connection and with a plan built around your personal retirement goals. This small, closed-group program is designed for first responders and their families who want a supportive space to strengthen identity and purpose, align as a family, and design a clear next chapter.</p>
-                    <p>Across eight weeks, you'll work in a confidential cohort (6–8 seats) that blends guided discussion, peer resource sharing, real-life experiences, and guided reflection plus 15-minute 1:1 laser coaching between sessions to turn insight into action.</p>
+                    <p>Across eight weeks, you'll work in a confidential cohort (6-8 seats) that blends guided discussion, peer resource sharing, real-life experiences, and guided reflection plus 15-minute 1:1 laser coaching between sessions to turn insight into action.</p>
                 </div>
                 <div class="card">
                     <h3>What to Expect</h3>
