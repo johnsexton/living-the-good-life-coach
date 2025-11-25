@@ -10,16 +10,29 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 // Change header style on scroll
 const header = document.querySelector("header");
 window.addEventListener("scroll", () => {
-  if (window.scrollY > 50) {
-    header.classList.add("scrolled");
-  } else {
-    header.classList.remove("scrolled");
-  }
+    if (window.scrollY > 50) {
+        header.classList.add("scrolled");
+    } else {
+        header.classList.remove("scrolled");
+    }
 });
 
+// Toggle navigation menu
 document.querySelectorAll('.nav-links a').forEach(link => {
     link.addEventListener('click', () => {
-      const toggle = document.getElementById('nav-toggle');
-      if (toggle.checked) toggle.checked = false;
+        const toggle = document.getElementById('nav-toggle');
+        if (toggle.checked) toggle.checked = false;
     });
-  });
+});
+
+// Open external links in a new tab
+document.querySelectorAll('a[href]').forEach(link => {
+  const href = link.getAttribute('href');
+  if (
+    href.startsWith('http') && !href.includes(location.hostname) ||
+    href.startsWith('mailto:')
+  ) {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+  }
+});
