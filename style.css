@@ -284,6 +284,13 @@ section {
     padding: 4rem 0;
 }
 
+.podcast {
+    width: 100%;
+    height: 165px;
+    border: none;
+    margin-top: 2rem;
+}
+
 .one-col .card {
     margin-bottom: 2rem;
 }

@@ -22,8 +22,8 @@
                 </a>
             </div>
 
-            <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true" />
-            <label for="nav-toggle" class="menu-btn" aria-label="Toggle navigation" aria-controls="primary-nav">
+            <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-label="Toggle navigation" aria-controls="primary-nav">
+            <label for="nav-toggle" class="menu-btn">
                 <span></span>
             </label>
 
@@ -41,8 +41,8 @@
     <section id="hero">
         <div class="section-content">
             <img class="align-right" src="img/logo.png" alt="Badge with a green, red, and blue path leading toward a gold star with the words Family First, Trust, Purpose, Values">
-            <div class="goodlife">Ready to Start Living the Good Life?</div>
-            <div><a href="#services" class="hero-btn">Learn About My Services</a></div>
+            <h2 class="goodlife">Ready to Start Living the Good Life?</h2>
+            <div><a href="#services" class="hero-btn">Learn About My Services</a></div>      
         </div>
     </section>
 
@@ -51,7 +51,7 @@
         <div class="section-heading">
             <h2>Meet Greg Furnia</h2>
             <p>“Because living the good life isn't about rank or title — it's about family, values, trust, and purpose.”</p>
-        </div>
+        </div>  
         <div class="section-content card">
             <img class="portrait" src="img/greg.png" alt="Greg Furnia, Life Coach, in uniform with his K9 partner">
             <p>I spent 26 years serving as a first responder leading teams, mentoring future leaders, and navigating the challenges that come with high-performance, high-stakes environments. It was a career built on purpose, service, and pride. But like many in this line of work, I learned that success at work means little if it comes at the expense of family, health, or integrity.</p>
@@ -61,7 +61,8 @@
             <p>Over the years, I've witnessed what happens when that balance is lost. I've seen families drift apart under the weight of stress, shift work, and silence. I've also seen what happens when people choose to lead intentionally, putting family first, strengthening their values, and redefining success on their terms. The difference is life-changing and it's why I do what I do.</p>
             <p>Before launching Living the Good Life, I served with the U.S. Border Patrol in multiple specialized roles, including the Horse Patrol and K9 programs both built on teamwork, trust, and the “family first” mindset. Earlier in life, I found that same sense of service and connection as a volunteer firefighter, and even before that, working in hospitality and entertainment cooking, serving others, and creating unforgettable moments as a wedding DJ.  Those experiences taught me to read people, build connections, and create moments of genuine joy.</p>
             <p>At home, family dinners were our foundation. Communication wasn't optional, it was the heartbeat of our household. Those values of honesty, presence, and laughter are the same ones I bring into my coaching and workshops today.</p>
-            <p>Now, through Living the Good Life LLC, I help first responders, leaders, and families take a proactive approach to transition, leadership, and lifestyle, strengthening relationships and rediscovering purpose before the challenges become crises. My approach is values-driven, family-centered, and grounded in real experience not theory.</p>            
+            <p>Now, through Living the Good Life LLC, I help first responders, leaders, and families take a proactive approach to transition, leadership, and lifestyle, strengthening relationships and rediscovering purpose before the challenges become crises. My approach is values-driven, family-centered, and grounded in real experience not theory.</p>
+            <iframe class="podcast" src="https://player.blubrry.com/id/150446588?cache=1764824828#mode-Light&border-000000&progress-000000" title="Blubrry Podcast Player"></iframe> 
         </div>
     </section>
 
@@ -265,7 +266,6 @@
                         <li>Leaders who want to show up better for their teams and their families</li>
                         <li>Anyone who wants a trusted coach in their corner, not another generic training</li>
                     </ul>
-                </div>
                 </div>
             </div>
         </div>
