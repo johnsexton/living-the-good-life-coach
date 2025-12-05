@@ -70,35 +70,21 @@
     <section id="approach">
         <div class="section-heading">
             <h2>My Approach</h2>
-            <p>I believe true success comes from aligning personal growth with professional development. My mission is to empower you to thrive in every area of life by cultivating integrity, empathy, and a family-first mindset.</p>
         </div>
         <div class="section-content two-col">
             <div class="card">
+                <h3>Setting a New Standard</h3>
+                <p>Unlike most coaching and training companies that focus only on skills, compliance, or short-term performance, I believe true growth must connect professional excellence with personal well-being. Many programs separate work and life, leaving agencies and individuals to bridge the gap themselves.</p>
+                <p>My approach is different. Every training and coaching experience is built on a <strong>Family First</strong> foundation ensuring that every goal, whether agency-wide or personal, is deeply connected to your core values and support network. This means growth is not just professional, but personal and sustainable.</p>
+            </div>
+            <div class="card">
                 <h3>Family First — The Foundation</h3>
-                <p>When I say Family First, here's what I mean: it's a values-based commitment to the people who make you stronger—whether they share your last name or not. “Family” includes anyone who supports you, challenges you, and walks beside you as you build a healthy personal and professional life.</p>
-                <p>Family First is also about being intentional with who you let into that inner circle—your closest support network, your “tribe.” These are the people you invest in, listen to, and protect, and who will do the same for you. In all of my programs, Family First is the foundation: we build a life and career that serves your family—however you define it—rather than sacrificing your family to serve your career.</p>
+                <p>When I say Family First, here's what I mean: it's a values-based commitment to the people who make you stronger whether they share your last name or not. “Family” includes anyone who supports you, challenges you, and walks beside you as you build a healthy personal and professional life.</p>
+                <p>Family First is also about being intentional with who you let into that inner circle your closest support network, your “tribe.” These are the people you invest in, listen to, and protect, and who will do the same for you. In all my programs, Family First is the foundation we build, a life and career that serves your family however you define it rather than sacrificing your family to serve your career.</p>
             </div>
             <div class="card">
-                <h3>Living with Purpose</h3>
-                <p>Growth begins with reflection, clear values, and proactive action. I help you build balance and clarity before life forces change—so you can lead with intention and fulfillment.</p>
+                <p>With this approach, agencies and individuals experience results that last beyond the classroom strengthening teams, leaders, and families for real-world impact. “Family First” isn't just a tagline, it's the guiding principle that sets my brand apart and delivers meaningful, lasting change.</p>
             </div>
-            <div class="card">
-                <h3>Empowering High-Impact Leaders</h3>
-                <p>I specialize in guiding law enforcement, first responders, military personnel, medical teams, fire and rescue services, and business leaders. Together, we harness your strengths, align your career with your values, and unlock your full potential.</p>
-            </div>
-            <div class="card">
-                <h3>Aligning Goals with What Matters Most</h3>
-                <p>Every goal should connect back to your core values. I work with you to bridge personal aspirations and professional responsibilities, creating strategies that honor both your mission and your family.</p>
-            </div>
-            <div class="card">
-                <h3>Building Trust, Empathy, and Resilience</h3>
-                <p>Leadership in high-stakes environments requires more than skills—it demands character. I provide proven strategies to strengthen trust, foster empathy, and build resilience, enabling you and your team to overcome adversity with confidence.</p>
-            </div>
-            <div class="card">
-                <h3>Thriving Through Change</h3>
-                <p>Transitions are inevitable. Whether stepping into a new role or navigating personal challenges, I equip you with the tools to adapt, grow, and thrive—turning change into opportunity.</p>
-            </div>
-            <div></div>
         </div>
     </section>
 
